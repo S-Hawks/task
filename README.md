@@ -1,8 +1,13 @@
 ## Task Application
-![task added](https://user-images.githubusercontent.com/64616734/115127570-52d07b80-9ff9-11eb-9336-c1b77267fbd1.PNG)
-![task delete](https://user-images.githubusercontent.com/64616734/115127574-549a3f00-9ff9-11eb-98ec-9a2d911a8c35.PNG)
-![validation_1](https://user-images.githubusercontent.com/64616734/115127581-5cf27a00-9ff9-11eb-8b3a-ccdd60ba4286.PNG)
-
+<p align="center">
+  <img width="500" height="300" src="![task added](https://user-images.githubusercontent.com/64616734/115129028-05a5d700-a004-11eb-8122-8dfb86d0d7b8.png)">
+</p>
+<p align="center">
+  <img width="500" height="300" src="![task delete](https://user-images.githubusercontent.com/64616734/115129030-08083100-a004-11eb-8caa-2d3548041130.png)">
+</p>
+<p align="center">
+  <img width="500" height="300" src="![validation_1](https://user-images.githubusercontent.com/64616734/115129035-12c2c600-a004-11eb-89b6-cd77e7fb301c.png)">
+</p>
 
 ## About Laravel
 
